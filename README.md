@@ -1,6 +1,4 @@
-# SingGraph
-
-[![arXiv](https://img.shields.io/badge/arXiv-2309.07525-b31b1b.svg)](https://arxiv.org/abs/2406.03111)
+# SingGraph [![arXiv](https://img.shields.io/badge/arXiv-2406.03111-b31b1b.svg)](https://arxiv.org/abs/2406.03111)
 
 This is the official repository for the **[SingGraph](https://arxiv.org/abs/2406.03111)** model. The paper has been accepted by Interspeech 2024.
 The official code will be released as soon as possible.
