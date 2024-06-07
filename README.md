@@ -14,7 +14,7 @@ The official code will be released as soon as possible.
 
 <div class="center" style="text-align: center">
     <div class="center col-md-8" style="text-align: center">
-        <img src="figures/singfake_sota.jpg"/>
+        <img src="figures/singfake_sota.jpg" width="300" height="auto"/>
     </div>
 </div>
 
@@ -32,5 +32,3 @@ If you find our work useful, please consider cite
 ```
 ## Acknowledgement
 If you have any questions, please feel free to contact me by email at d12942018@ntu.edu.tw.
-
-## Reference
