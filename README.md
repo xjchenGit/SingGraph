@@ -12,7 +12,7 @@ Our proposed method achieves new state-of-the-art (SOTA) results within the Sing
 ## Datasets and preprocessing
 The dataset is based on the paper  "SingFake: Singing Voice Deepfake Detection," which is accepted by ICASSP 2024. [[Project Webpage](https://singfake.org/)]
 
-Since the copyright issue, the dataset didn't open source. Please follow the instructions in the above paper to download the dataset yourself.
+Since the copyright issue, the dataset didn't open source. Please follow the instructions in the above paper to download the dataset by yourself.
 
 <!-- ## Training -->
 
