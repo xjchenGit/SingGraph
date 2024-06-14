@@ -4,3 +4,6 @@ cache/w2v2/xlsr2_300m.pt
 cache/models--m-a-p--MERT-v1-330M/
 cache/hub/
 cache/modules/
+exp_result/
+fairseq/
+fairseq1/
