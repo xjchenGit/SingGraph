@@ -1,0 +1,12 @@
+librosa==0.9.1
+transformers
+pandas
+numpy==1.21.6
+numba==0.56.4
+tensorboardX
+protobuf==3.20.*
+pexpect>4.3
+numba>=0.53 
+dcase-util>=0.2.4
+tensorboard
+torchcontrib
