@@ -1,6 +1,6 @@
-./__pycache__/
-./dataset/
-./cache/w2v2/xlsr2_300m.pt
-./cache/models--m-a-p--MERT-v1-330M/
-./cache/hub/
-./cache/modules/
+__pycache__/
+dataset/
+cache/w2v2/xlsr2_300m.pt
+cache/models--m-a-p--MERT-v1-330M/
+cache/hub/
+cache/modules/
