@@ -84,7 +84,6 @@ class BpmProcessor:
                 padded_len = math.ceil(remain_len // wav_seg.shape[0]) + 1
             else:
                 padded_len = 1
-            # print(f"remain_len: {remain_len}, wav_seg.shape[0]: {wav_seg.shape[0]}, padded_len: {padded_len}")
             padded_wav_seg = np.concatenate([wav_seg] * padded_len)
             output = np.concatenate((rand_start_seg, padded_wav_seg))
         
