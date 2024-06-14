@@ -1,7 +1,8 @@
 # SingGraph [![arXiv](https://img.shields.io/badge/arXiv-2406.03111-b31b1b.svg)](https://arxiv.org/abs/2406.03111)
 
 This is the official repository for the **[SingGraph](https://arxiv.org/abs/2406.03111)** model. The paper has been accepted by Interspeech 2024.
-The official code will be released as soon as possible.
+
+The official code has been released. I need some time to write the `README.md` of the data pre-processing processes.
 ## Abstract
 
 Existing models for speech deepfake detection have struggled to adapt to unseen attacks in this unique singing voice domain of human vocalization. To bridge the gap, we present a groundbreaking SingGraph model. The model synergizes the capabilities of the MERT acoustic music understanding model for pitch and rhythm analysis with the wav2vec2.0 model for linguistic analysis of lyrics Additionally, we advocate for using RawBoost and beat matching techniques grounded in music domain knowledge for singing voice augmentation, thereby enhancing SingFake detection performance.
@@ -9,11 +10,12 @@ Our proposed method achieves new state-of-the-art (SOTA) results within the Sing
 
 ![](figures/singgraph.png)
 
-## Datasets and preprocessing
+## Datasets
 The dataset is based on the paper  "SingFake: Singing Voice Deepfake Detection," which is accepted by ICASSP 2024. [[Project Webpage](https://singfake.org/)]
 
 Since the copyright issue, the dataset didn't open source. Please follow the instructions in the above paper to download the dataset by yourself.
 
+<!-- ## Pre-processing -->
 <!-- ## Training -->
 <!-- ## Evaluation -->
 
