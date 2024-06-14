@@ -23,10 +23,10 @@ from torch.utils.tensorboard import SummaryWriter
 from torchcontrib.optim import SWA
 from tqdm import tqdm
 
-from dataloader import Dataset_SingFake, Dataset_SingFake_mert_w2v
-from eval_metrics import compute_eer
-from utils import create_optimizer, seed_worker, set_seed, str_to_bool
-from SingGraph import Wav2Vec2Model
+from data.dataloader import Dataset_SingFake, Dataset_SingFake_mert_w2v
+from utils.eval_metrics import compute_eer
+from utils.utils import create_optimizer, seed_worker, set_seed, str_to_bool
+from model.SingGraph import Wav2Vec2Model
 
 warnings.filterwarnings("ignore", category=UserWarning)
 warnings.filterwarnings("ignore", category=FutureWarning)
