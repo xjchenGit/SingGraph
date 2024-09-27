@@ -30,11 +30,14 @@ Since the copyright issue, the dataset didn't open source. Please follow the ins
 ## Citation
 If you find our work useful, please consider cite
 ```
-@article{chen2024singing,
-      title={Singing Voice Graph Modeling for SingFake Detection}, 
-      author={Xuanjun Chen and Haibin Wu and Jyh-Shing Roger Jang and Hung-yi Lee},
-      journal={arXiv preprint arXiv:2406.03111},
-      year={2024}
+@inproceedings{chen24o_interspeech,
+  title     = {Singing Voice Graph Modeling for SingFake Detection},
+  author    = {Xuanjun Chen and Haibin Wu and Roger Jang and Hung-yi Lee},
+  year      = {2024},
+  booktitle = {Interspeech 2024},
+  pages     = {4843--4847},
+  doi       = {10.21437/Interspeech.2024-1185},
+  issn      = {2958-1796},
 }
 ```
 ## Acknowledgement
