@@ -39,6 +39,13 @@ If you find our work useful, please consider cite
   doi       = {10.21437/Interspeech.2024-1185},
   issn      = {2958-1796},
 }
+
+@article{chen2025how,
+  title={How Does Instrumental Music Help SingFake Detection?},
+  author={Chen, Xuanjun and Hu, Chia-Yu and Lin, I-Ming and Lin, Yi-Cheng and Chiu, I-Hsiang and Zhang, You and Huang, Sung-Feng and Yang, Yi-Hsuan and Wu, Haibin and Lee, Hung-yi and Jang, Jyh-Shing Roger},
+  journal={arXiv preprint arXiv:2509.14675},
+  year={2025}
+}
 ```
 ## Acknowledgement
 If you have any questions, please feel free to contact me by email at d12942018@ntu.edu.tw.
